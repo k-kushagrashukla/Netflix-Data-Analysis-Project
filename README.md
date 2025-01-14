@@ -17,7 +17,7 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 5)-Which year has the most filmmed movies?
 
 ## Hence , for answering these question We need to analyse  and clean our dataset 
-  using these python libraries and modules 👇👇
+  using these python libraries 👇👇
 
   ```python
 import numpy as np
